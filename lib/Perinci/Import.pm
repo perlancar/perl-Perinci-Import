@@ -5,6 +5,8 @@ use strict;
 use warnings;
 use experimental 'smartmatch';
 
+# VERSION
+
 sub import {
     my $pkg = shift;
     my $mod = shift or die "Please specify module to import";

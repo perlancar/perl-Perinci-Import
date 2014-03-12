@@ -14,6 +14,8 @@ use Test::More 0.98;
 
 # XXX test default exports
 # XXX test importing by tags
+# XXX test tag: :default
+# XXX test tag: :all
 # XXX test by default not wrapping
 # XXX test wrapping by specifying convert arg (e.g. result_naked=>1)
 # XXX test import option -as

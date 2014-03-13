@@ -127,7 +127,9 @@ functions, their tags, etc are consulted from L<Rinci> metadata (located in
 C<%SPEC> package variable). Other features include: wrapping functions,
 importing to another name, etc.
 
-C<Perinci::Import> is now preferred over C<Perinci::Exporter>.
+C<Perinci::Import> is now preferred over C<Perinci::Exporter> as this frees
+module authors from specifying an exporter explicitly. Personally, I also
+use the venerable L<Exporter> on some modules.
 
 
 =head1 IMPORTING

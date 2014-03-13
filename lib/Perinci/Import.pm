@@ -167,7 +167,7 @@ Each function can have import options, specified in a hashref:
 
 Each import key, unless those prefixed by dash (C<->) will be passed to the
 C<convert> argument of L<Perinci::Sub::Wrapper>'s C<wrap_sub()>. Function will
-be wrapped if one of more wrap arguments are specified (or C<< -wrap => 1 >> is
+be wrapped if one of more such arguments are specified (or C<< -wrap => 1 >> is
 given. In the above example, C<f1> is wrapped because C<args_as> is specified.
 C<f2> is not wrapped.
 

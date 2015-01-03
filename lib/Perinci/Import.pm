@@ -188,21 +188,6 @@ subroutines using into a different name.
 =head1 FAQ
 
 
-=head1 TODO/IDEAS
-
-=over
-
-=item * Support combining tags?
-
- use Perinci::Import 'Some::Module', qw(not(:tag1));
- use Perinci::Import 'Some::Module', qw(and(:tag1,:tag2));
- use Perinci::Import 'Some::Module', qw(or(:tag1,and(:tag2,:tag3)));
-
-=item * Export non-functions (variables, etc).
-
-=back
-
-
 =head1 SEE ALSO
 
 L<Perinci>, L<Perinci::Exporter>

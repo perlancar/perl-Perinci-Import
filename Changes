@@ -1,4 +1,4 @@
-0.03    2015-09-03 (PERLANCAR)
+0.03    2015-09-03  Released-By: PERLANCAR
 
 	- No functional changes.
 
@@ -7,13 +7,13 @@
 	  requirement.
 
 
-0.02     2014-04-01 (SHARYANTO)
+0.02     2014-04-01  Released-By: SHARYANTO
 
          - No functional changes.
 
          - Bugfix: Forgot to add $VERSION.
 
 
-0.01     2014-03-12 (SHARYANTO)
+0.01     2014-03-12  Released-By: SHARYANTO
 
          - First release, tests not written yet.
